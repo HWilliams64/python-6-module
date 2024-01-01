@@ -86,26 +86,26 @@ Here's a brief overview of what you'll learn in each module:
       - Learn to create for and while loops.
       - Utilize loops to create a Read Event Print Loop (REPL) for interactive programming.
 
-**5. [Functions](./02_functions/learning_material.md):**
+**3. [Functions](./02_functions/learning_material.md):**
    - Understand functional parameters and their usage.
    - Document your functions effectively.
    - Explore function return values and default parameters.
 
-**6. [Data Structures](./03_data_structures/learning_material.md):**
+**4. [Data Structures](./03_data_structures/learning_material.md):**
    - Work with lists, tuples, sets, and dictionaries effectively.
 
-**7. [Object-Oriented Programming](./04_objects/learning_material.md):**
+**5. [Object-Oriented Programming](./04_objects/learning_material.md):**
    - Grasp the concept of objects and their characteristics.
    - Differentiate between methods and functions.
    - Understand getters, setters, and local/instance variables.
 
-**8. [File I/O](./05_file_io/learning_material.md):**
+**6. [File I/O](./05_file_io/learning_material.md):**
    - Learn to read and write text files
    - Utilize context managers for efficient file handling.
    - Learn to read and write text JSON files.
    - Learn to read and write text CSV files.
 
-**9. [Graphics](./06_gui/learning_material.md):**
+**7. [Graphics](./06_gui/learning_material.md):**
    - All learning content can be found in the course LMS
 
 
